@@ -84,24 +84,27 @@
 * Менеджер вносит в систему стоимость номеров гостиницы.
 
 
-*Диаграмма классов*
+## Диаграмма классов
 
 ![class-diag](https://raw.githubusercontent.com/KseniaNazarova/Design_of_SW_architecture/master/res/class-diag.png)
 
-*Динамическая объектная модель*
+## Динамическая объектная модель
 
-1. Диаграмма последовательности бронирования
+1) Диаграмма последовательности бронирования
 
 ![seq-diag1](https://github.com/KseniaNazarova/Design_of_SW_architecture/blob/master/res/SeqDiag1.png)
 
-2. Диаграмма последовательности заселения
+2) Диаграмма последовательности заселения
 
 ![seq-diag2](https://github.com/KseniaNazarova/Design_of_SW_architecture/blob/master/res/SeqDiag3.png)
 
-3. Диаграмма последовательности выселения
+3) Диаграмма последовательности выселения
 
 ![seq-diag3](https://github.com/KseniaNazarova/Design_of_SW_architecture/blob/master/res/SeqDiag4.png)
 
-4. Дополнительная диаграмма последовательности оплаты
+4) Дополнительная диаграмма последовательности оплаты
 
 ![seq-diag4](https://github.com/KseniaNazarova/Design_of_SW_architecture/blob/master/res/SeqDiag2.png)
+
+## Проектирование слоя бизнес-логики
+
