@@ -28,7 +28,7 @@
 ## Варианты использования 
 *Диаграмма прецедентов*
 
-![use-cases](https://raw.githubusercontent.com/KseniaNazarova/Design_of_SW_architecture/master/res/use-case.png)
+![use-case](https://github.com/KseniaNazarova/Design_of_SW_architecture/blob/master/res/use-case.png)
 
 *Процесс бронирования*
  1. __Клиент__ выбирает подходящий __номер__ в __гостинице__.
@@ -85,14 +85,23 @@
 
 
 *Диаграмма классов*
+
 ![class-diag](https://raw.githubusercontent.com/KseniaNazarova/Design_of_SW_architecture/master/res/class-diag.png)
 
 *Динамическая объектная модель*
+
 1. Диаграмма последовательности бронирования
+
 ![seq-diag1](https://github.com/KseniaNazarova/Design_of_SW_architecture/blob/master/res/SeqDiag1.png)
+
 2. Диаграмма последовательности заселения
+
 ![seq-diag2](https://github.com/KseniaNazarova/Design_of_SW_architecture/blob/master/res/SeqDiag3.png)
+
 3. Диаграмма последовательности выселения
+
 ![seq-diag3](https://github.com/KseniaNazarova/Design_of_SW_architecture/blob/master/res/SeqDiag4.png)
+
 4. Дополнительная диаграмма последовательности оплаты
+
 ![seq-diag4](https://github.com/KseniaNazarova/Design_of_SW_architecture/blob/master/res/SeqDiag2.png)
