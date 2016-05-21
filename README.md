@@ -85,4 +85,14 @@
 
 
 *Диаграмма классов*
-![use-cases](https://raw.githubusercontent.com/KseniaNazarova/Design_of_SW_architecture/master/res/class-diag.png)
+![class-diag](https://raw.githubusercontent.com/KseniaNazarova/Design_of_SW_architecture/master/res/class-diag.png)
+
+*Динамическая объектная модель*
+1. Диаграмма последовательности бронирования
+![class-diag](https://raw.githubusercontent.com/KseniaNazarova/Design_of_SW_architecture/master/res/class-diag.png)
+2. Диаграмма последовательности заселения
+![class-diag](https://raw.githubusercontent.com/KseniaNazarova/Design_of_SW_architecture/master/res/class-diag.png)
+3. Диаграмма последовательности выселения
+![class-diag](https://raw.githubusercontent.com/KseniaNazarova/Design_of_SW_architecture/master/res/class-diag.png)
+4. Дополнительная диаграмма последовательности оплаты
+![class-diag](https://raw.githubusercontent.com/KseniaNazarova/Design_of_SW_architecture/master/res/class-diag.png)
